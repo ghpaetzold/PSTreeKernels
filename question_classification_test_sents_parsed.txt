@@ -1,0 +1,4624 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ (VBZ is)
+      (NP (PRP it))
+      (PP (IN from)
+        (NP
+          (NP (NNP Denver))
+          (PP (TO to)
+            (NP (NNP Aspen))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN county))
+    (SQ (VBZ is)
+      (NP (NNP Modesto) (, ,) (NNP California))
+      (PP (IN in)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP (NNP Galileo)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN atom)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (NNP Hawaii))
+      (VP (VB become)
+        (NP (DT a) (NN state))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ tall))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Sears) (NNP Building)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP George) (NNP Bush))
+    (VP (VBD purchased)
+      (NP
+        (NP (DT a) (JJ small) (NN interest))
+        (WHPP (IN in)
+          (WHNP (WDT which) (NN baseball) (NN team)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Australia) (POS 's))
+        (JJ national) (NN flower)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBZ does)
+      (NP (DT the) (NN moon))
+      (VP (VB turn)
+        (NP (NN orange))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN autism)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN city))
+    (SQ
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (NN world) (NN fair))
+          (PP (IN in)
+            (NP (CD 1900))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN person) (POS 's))
+      (NN head))
+    (SQ (VBZ is)
+      (PP (IN on)
+        (NP (DT a) (NN dime))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ average) (NN weight))
+        (PP (IN of)
+          (NP (DT a) (JJ Yellow) (NN Labrador)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN man))
+        (S
+          (VP (TO to)
+            (VP (VB fly)
+              (PP (IN across)
+                (NP (DT the) (NNP Pacific) (NNP Ocean))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (NNP Idaho))
+      (VP (VB become)
+        (NP (DT a) (NN state))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN life) (NN expectancy))
+        (PP (IN for)
+          (NP (NNS crickets)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN metal))
+    (SQ
+      (VP (VBZ has)
+        (NP (DT the) (JJS highest) (NN melting) (NN point))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD developed)
+        (NP (DT the) (NN vaccination))
+        (PP (IN against)
+          (NP (NNP polio)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN epilepsy)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Titanic))
+      (VP (VB sink)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP American))
+        (S
+          (VP (TO to)
+            (VP (VB walk)
+              (PP (IN in)
+                (NP (NN space))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN biosphere)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN river))
+      (PP (IN in)
+        (NP (DT the) (NNP US))))
+    (SQ (VBZ is)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (DT the) (NNP Big) (NNP Muddy)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP bipolar) (NNP disorder)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN cholesterol)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD developed)
+        (NP (DT the) (NNP Macintosh) (NN computer))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN caffeine)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ imaginary) (NN line))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP halfway))
+        (PP (IN between)
+          (NP (DT the) (NNP North)
+            (CC and)
+            (NNP South) (NNPS Poles)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (NNP John) (NNP Wayne) (NN airport)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN hemisphere))
+    (SQ (VBZ is)
+      (NP (DT the) (NNPS Philippines))
+      (PP (IN in)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ average) (NN speed))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS horses))
+            (PP (IN at)
+              (NP (DT the) (NNP Kentucky) (NNP Derby)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBP are)
+      (NP (DT the) (NNP Rocky) (NNPS Mountains)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS invertebrates)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN temperature))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN center))
+            (PP (IN of)
+              (NP (DT the) (NN earth)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (NNP John) (NNP F.) (NNP Kennedy))
+      (VP (VB get)
+        (VP (VBN elected)
+          (PP (IN as)
+            (NP (NNP President))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBD was)
+      (NP (NNP Elvis) (NNP Presley))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP (VBD died)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Orinoco) (NNP River)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN service) (NN line))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN net))
+            (PP (IN in)
+              (NP (NN tennis)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ much))
+      (NNS fiber))
+    (SQ (MD should)
+      (NP (PRP you))
+      (VP (VB have)
+        (PP (IN per)
+          (NP (NN day)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ Great))
+      (NNS Lakes))
+    (SQ (VBP are)
+      (NP (EX there)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Material))
+    (VP (VBD called)
+      (SBAR
+        (S
+          (NP (NN linen))
+          (VP (VBZ is)
+            (VP (VBN made)
+              (PP (IN from)
+                (NP (WDT what) (NN plant))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP Teflon)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP amitriptyline)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN shaman)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ proper) (NN name))
+        (PP (IN for)
+          (NP (DT a) (JJ female) (NN walrus)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT a) (NN group))
+        (PP (IN of)
+          (NP (NNS turkeys))))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ long))
+    (SQ (VBD did)
+      (NP (NNP Rip) (NNP Van) (NNP Winkle))
+      (VP (VB sleep)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNPS triglycerides)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS liters))
+    (PP (IN in)
+      (NP (DT a) (NN gallon)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN chocolate) (NN company))
+            (PP (IN in)
+              (NP (NNP San) (NNP Francisco)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS amphibians)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD discovered)
+        (NP (NNPS x-rays))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT Which) (NN comedian) (POS 's))
+      (NN signature) (NN line))
+    (SQ (VBZ is)
+      (SBARQ
+        (SQ (`` ``) (MD Can)
+          (NP (PRP we))
+          (VP (VB talk) ('' '')))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP fibromyalgia)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (VP (VBN done)
+        (PP (IN with)
+          (NP
+            (ADJP (JJ worn)
+              (CC or)
+              (JJ outdated))
+            (NNS flags)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP
+        (NP (NN cc))
+        (PP (IN in)
+          (NP (NNS engines))))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (NNP Elvis) (NNP Presley))
+      (VP (VB die)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN capital))
+        (PP (IN of)
+          (NP (NNP Yugoslavia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (NNP Milan)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NN speed) (NN hummingbirds) (NN fly)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS oldest) (NN city))
+        (PP (IN in)
+          (NP (DT the) (NNP United) (NNPS States)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (NNP W.C.) (NNP Fields) (POS '))
+        (JJ real) (NN name)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN river))
+    (SQ
+      (VP (VBZ flows)
+        (PP (IN between)
+          (NP
+            (NP (NNP Fargo))
+            (, ,)
+            (NP (NNP North) (NNP Dakota))
+            (CC and)
+            (NP (NNP Moorhead) (, ,) (NNP Minnesota))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (NNS bats))
+      (VP (VB eat)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN state))
+    (SQ (VBD did)
+      (NP
+        (NP (DT the) (NN Battle))
+        (PP (IN of)
+          (NP (NNP Bighorn))))
+      (VP (VB take)
+        (NP (NN place))
+        (PP (IN in))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP (NNP Abraham) (NNP Lincoln)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB call)
+        (NP (DT a) (JJ newborn) (NN kangaroo))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NN spider) (NNS veins)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What)
+      (NP (NN day)
+        (CC and)
+        (NN month)))
+    (SQ (VBD did)
+      (NP (NNP John) (NNP Lennon))
+      (VP (VB die)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN strait))
+    (SQ
+      (VP (VBZ separates)
+        (NP
+          (NP (NNP North) (NNP America))
+          (PP (IN from)
+            (NP (NNP Asia))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN population))
+        (PP (IN of)
+          (NP (NNP Seattle)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ much))
+    (SQ (VBD was)
+      (NP
+        (NP (DT a) (NN ticket))
+        (PP (IN for)
+          (NP (DT the) (NNP Titanic)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS largest) (NN city))
+        (PP (IN in)
+          (NP (DT the) (NN world)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ American) (NN composer))
+    (SQ
+      (VP (VBD wrote)
+        (NP (DT the) (NN music))
+        (PP (IN for) (`` ``)
+          (NP (NNP West) (NNP Side) (NNP Story))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN Mall))
+        (PP (IN of)
+          (NP (DT the) (NNP America)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NN pH) (NN scale)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN type))
+      (PP (IN of)
+        (NP (NN currency))))
+    (SQ (VBZ is)
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NNP Australia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ tall))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNP Gateway) (NNP Arch))
+        (PP (IN in)
+          (NP
+            (NP (NNP St.) (NNP Louis))
+            (, ,)
+            (NP (NNP MO))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ much))
+    (SQ (VBZ does)
+      (NP (DT the) (JJ human) (JJ adult) (JJ female) (NN brain))
+      (VP (VB weigh)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN governor))
+        (PP (IN of)
+          (NP (NNP Alaska)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN prism)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (NN liver) (NN transplant)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (VP (VBN elected)
+        (NP
+          (NP (NN president))
+          (PP (IN of)
+            (NP
+              (NP (NNP South) (NNP Africa))
+              (PP (IN in)
+                (NP (CD 1994))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN population))
+        (PP (IN of)
+          (NP (NNP China)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Rosa) (NNP Parks))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBZ is)
+      (NP (DT a) (NN ladybug))
+      (ADJP (JJ helpful)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP amoxicillin)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (JJ female) (NNP United) (NNPS States) (NNP Representative)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNPS xerophytes)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN country))
+    (SQ (VBD did)
+      (NP (NNP Ponce) (NNP de) (NNP Leon))
+      (VP (VB come)
+        (PP (IN from))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP U.S.) (NNP Department))
+      (PP (IN of)
+        (NP (NNP Treasury))))
+    (VP
+      (ADVP (RB first))
+      (VBD issued)
+      (NP
+        (NP (NN paper) (NN currency))
+        (PP (IN for)
+          (NP (DT the) (NNP U.S.))))
+      (WHPP (IN during)
+        (WHNP (WDT which) (NN war))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ desktop) (NN publishing)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN temperature))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN sun) (POS 's))
+            (NN surface)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (NNP Canada))
+      (VP (VB join)
+        (NP (DT the) (NNP United) (NNPS Nations))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS oldest) (NN university))
+        (PP (IN in)
+          (NP (DT the) (NNP US)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (NNP Prince) (NNP Edward) (NNP Island)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (NP (NNP Mercury))
+    (, ,)
+    (WHNP (WDT what) (NN year))
+    (SQ (VBD was)
+      (NP (PRP it))
+      (VP (VBN discovered)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP cryogenics)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NN coral) (NNS reefs)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJS longest) (JJ major) (NN league) (VBG baseball-winning) (NN streak)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN neurology)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (DT the) (NN calculator))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB measure)
+        (NP (NNS earthquakes))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP (NNP Duke) (NNP Ellington)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN county))
+    (SQ (VBZ is)
+      (NP (NNP Phoenix) (, ,) (NNP AZ))
+      (PP (IN in)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN micron)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (NP
+      (NP (DT The) (NN sun) (POS 's))
+      (NN core))
+    (, ,)
+    (WHNP (WP what))
+    (SQ (VBZ is)
+      (NP (DT the) (NN temperature)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Ohio) (NN state) (NN bird)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD were)
+      (NP
+        (NP (NNP William) (NNP Shakespeare) (POS 's))
+        (NNS twins))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS highest) (NN dam))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBZ is)
+      (NP (DT a) (NN poison) (NN arrow) (NN frog)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN acupuncture)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN length))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN coastline))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN state))
+                (PP (IN of)
+                  (NP (NNP Alaska)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (NNP Neil) (NNP Armstrong) (POS 's))
+            (NN wife)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Hawaii) (POS 's))
+        (NN state) (NN flower)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD won)
+        (NP
+          (NP (NNP Ms.) (NNP American))
+          (PP (IN in)
+            (NP (CD 1989))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Hindenberg))
+      (VP (VB crash)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN mineral))
+    (SQ
+      (VP (VBZ helps)
+        (S
+          (VP (VB prevent)
+            (NP (NNS osteoporosis))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP (DT the) (JJ last) (NN year))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP Chicago) (NNP Cubs))
+          (VP (VBD won)
+            (NP (DT the) (NNP World) (NNP Series))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (NNP Perth)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (NNP WWII))
+      (VP (VB begin)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN diameter))
+        (PP (IN of)
+          (NP (DT a) (NN golf) (NN ball)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN eclipse)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD discovered)
+        (NP (NNP America))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN earth) (POS 's))
+        (NN diameter)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Which) (NN president))
+    (SQ (VBD was)
+      (ADJP (JJ unmarried)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ wide))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Milky) (NNP Way) (NN galaxy)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHPP (IN During)
+      (WHNP (WDT which) (NN season)))
+    (SQ (VBP do)
+      (NP (JJS most) (NNS thunderstorms))
+      (VP (VB occur)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP Wimbledon)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ gestation) (NN period))
+        (PP (IN for)
+          (NP (DT a) (NN cat)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ (VBZ is)
+      (NP (DT a) (JJ nautical) (NN mile)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (NN abolitionist))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD led)
+              (NP (DT the) (NN raid))
+              (PP (IN on)
+                (NP
+                  (NP (NNP Harper) (POS 's))
+                  (NN Ferry)))
+              (PP (IN in)
+                (NP (CD 1859))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP
+        (NP (NN target) (NN heart))
+        (NN rate))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN satellite))
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN into)
+                (NP (NN space))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN foreclosure)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ major) (NN fault) (NN line))
+        (PP (IN near)
+          (NP (NNP Kentucky)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Holland) (NN Tunnel)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD wrote)
+        (S
+          (NP (DT the) (NN hymn))
+          (`` ``)
+          (NP (NNP Amazing) (NNP Grace))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN position))
+    (SQ (VBD did)
+      (NP (NNP Willie) (NNP Davis))
+      (VP (VB play)
+        (PP (IN in)
+          (NP (NN baseball)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS platelets)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN severance) (NN pay)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (NNP Roy) (NNP Roger) (POS 's))
+            (NN dog)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBP are)
+      (NP (DT the) (NNP National) (NNPS Archives)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN baby) (NN turkey))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP poliomyelitis)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS longest) (NN bone))
+        (PP (IN in)
+          (NP (DT the) (JJ human) (NN body)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP (DT a) (JJ German) (NN philosopher)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD were)
+      (NP
+        (NP (NNP Christopher) (NNP Columbus) (POS '))
+        (CD three) (NNS ships)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (NNP Phi) (NNP Beta) (NNP Kappa))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN nicotine)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT another) (NN name))
+        (PP (IN for)
+          (NP (NN vitamin) (NN B1)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD discovered)
+        (NP (NN radium))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS sunspots)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Algeria))
+      (VP (VBN colonized)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN baseball) (NN team))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the)
+          (ADJP (JJ first)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (NP (NNS numbers))))))
+          (NN part))
+        (PP (IN of)
+          (NP (PRP$ their) (NN uniform)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN continent))
+    (SQ (VBZ is)
+      (NP (NNP Egypt))
+      (PP (IN on)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN capital))
+        (PP (IN of)
+          (NP (NNP Mongolia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN nanotechnology)))
+    (. ?)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ late)))
+    (NP
+      (NP (NNP 1700) (POS 's))
+      (JJ British) (NNS convicts))
+    (VP (VBD were)
+      (VP (VBN used)
+        (S
+          (VP (TO to)
+            (VP (VB populate)
+              (WHNP (WDT which) (NN colony)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN state))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ geographic) (NN center))
+        (PP (IN of)
+          (NP (DT the) (JJR lower) (CD 48) (NNS states)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (JJ obtuse) (NN angle)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS polymers)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBZ is)
+      (NP
+        (NP (NN hurricane) (NN season))
+        (PP (IN in)
+          (NP (DT the) (NNP Caribbean)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NN volcano) (NNP Mauna) (NNP Loa)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT another) (JJ astronomic) (NN term))
+        (PP (IN for)
+          (NP (DT the) (JJ Northern) (NNS Lights)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN peninsula))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Spain) (NN part))
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Lyndon) (NNP B.) (NNP Johnson))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN acetaminophen)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN state))
+    (SQ
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (JJS least) (NN amount))
+          (PP (IN of)
+            (NP
+              (NP (NN rain))
+              (PP (IN per)
+                (NP (NN year))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD founded)
+        (NP (JJ American)
+          (NX (NNP Red) (NNP Cross)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Milwaukee) (NNPS Braves))
+      (VP (VB become)
+        (NP (DT the) (NNP Atlanta) (NNPS Braves))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ (VBZ is)
+      (NP (NN alcohol))
+      (VP (VBN absorbed)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBZ is)
+      (NP (DT the) (NN summer) (NN solstice)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN supernova)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Shawnee) (NNP National) (NNP Forest)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NNP U.S.) (NN state) (POS 's))
+      (NN motto))
+    (SQ (VBZ is) (`` ``)
+      (NP
+        (S
+          (NP (NNP Live))
+          (VP (VB free)
+            (CC or)
+            (VB Die))))
+      ('' ''))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Lourve)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (NN stamp))
+      (VP (VBN issued)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ primary) (NNS colors))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB mix)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (NN orange)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Pluto))
+        (PP (IN from)
+          (NP (DT the) (NN sun)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN body))
+      (PP (IN of)
+        (NP (NN water))))
+    (SQ (VBP are)
+      (NP (DT the) (NNP Canary) (NNPS Islands))
+      (PP (IN in)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN neuropathy)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Euphrates) (NNP River)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN cryptography)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ natural) (NN gas))
+      (VP (VBN composed)
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNP Prime) (NNP Minister))
+        (PP (IN of)
+          (NP (NNP Canada)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ French) (NN ruler))
+    (SQ (VBD was)
+      (VP (VBN defeated)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN battle))
+            (PP (IN of)
+              (NP (NNP Waterloo)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN leukemia)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBD did)
+      (NP (NNP Howard) (NNP Hughes))
+      (VP (VB die)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN birthstone))
+        (PP (IN for)
+          (NP (NNP June)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNS sales) (NN tax))
+        (PP (IN in)
+          (NP (NNP Minnesota)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN distance))
+        (PP (IN in)
+          (NP
+            (NP (NNS miles))
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN earth))
+                (PP (TO to)
+                  (NP (DT the) (NN sun)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ average) (NN life) (NN span))
+        (PP (IN for)
+          (NP (DT a) (NN chicken)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (NNP Wal-Mart) (NN store))
+      (VP (VBN opened)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ relative) (NN humidity)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN city))
+    (SQ
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (NN zip) (NN code))
+          (PP (IN of)
+            (NP (CD 35824))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN currency))
+    (SQ (VBZ is)
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NNP Algeria)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (DT the) (JJ hula) (NN hoop))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ popular))
+          (NN toy))
+        (PP (IN in)
+          (NP (CD 1957)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNS pastrami))
+      (VP (VBN made)
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN satellite))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NNP Soviet) (NNP Union))
+                (VP (VBD sent)
+                  (PP (IN into)
+                    (NP (NN space)))
+                  (PP (IN in)
+                    (NP (CD 1957))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN city) (POS 's))
+      (NN newspaper))
+    (SQ (VBZ is)
+      (VP (VBN called)
+        (S (`` ``)
+          (NP (DT The) (NNP Enquirer))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (DT the) (NN slinky))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (DT the) (NNS animals))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP don) (POS '))
+            (NN t))
+          (VP (VBP have)
+            (ADVP (RB backbones))
+            (VP (VBN called))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ melting) (NN point))
+        (PP (IN of)
+          (NP (NN copper)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NN volcano) (NNP Olympus) (NNP Mons))
+      (VP (VBN located)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ 23rd) (NN president))
+        (PP (IN of)
+          (NP (DT the) (NNP United) (NNPS States)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJ average) (NN body) (NN temperature)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT a) (NN defibrillator))
+      (VP (VB do)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN effect))
+        (PP (IN of)
+          (NP (JJ acid) (NN rain)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP United) (NNPS States))
+      (VP (VB abolish)
+        (NP (DT the) (NN draft))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN speed))
+        (PP (IN of)
+          (NP (NN light)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN province))
+    (SQ (VBZ is)
+      (NP (NNP Montreal))
+      (PP (IN in)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NNP New) (NNP York) (NNP City) (NN structure))
+    (SQ (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (DT the) (NNP Twin) (NNP Towers)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN fungus)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the)
+          (ADJP
+            (ADVP (RBS most) (RB frequently))
+            (VBN spoken))
+          (NN language))
+        (PP (IN in)
+          (NP (DT the) (NNPS Netherlands)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN sodium) (NN chloride)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP
+        (NP (DT the) (NNS spots))
+        (PP (IN on)
+          (NP (NNS dominoes))))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS pounds))
+    (PP (IN in)
+      (NP (DT a) (NN ton)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN influenza)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN ozone) (NN depletion)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD was)
+      (NP (DT the) (NNP Mona) (NNP Lisa))
+      (VP (VBN painted)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does) (`` ``)
+      (NP (VBG Sitting) (NN Shiva))
+      ('' '')
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ electrical) (NN output))
+        (PP (IN in)
+          (NP (NNP Madrid) (, ,) (NNP Spain)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT Which) (NN mountain) (NN range))
+      (PP (IN in)
+        (NP (NNP North) (NNP America))))
+    (SQ
+      (VP (VBZ stretches)
+        (PP (IN from)
+          (NP (NNP Maine)))
+        (PP (TO to)
+          (NP (NNP Georgia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN plastic))
+      (VP (VBN made)
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN population))
+        (PP (IN of)
+          (NP (NNP Nigeria)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (PRP$ your) (NN spleen))
+      (VP (VB do)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Grand) (NNP Canyon)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (DT the) (NN telephone))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP U.S.))
+      (VP (VB buy)
+        (NP (NNP Alaska))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN leader))
+            (PP (IN of)
+              (NP (NNP Ireland)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN phenylalanine)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (NNS gallons))
+      (PP (IN of)
+        (NP (NN water))))
+    (SQ (VBP are)
+      (NP (EX there))
+      (PP (IN in)
+        (NP (DT a) (JJ cubic) (NN foot))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP
+        (NP (DT the) (CD two) (NNS houses))
+        (PP (IN of)
+          (NP (DT the) (JJ Legislative) (NN branch)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN sonar)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (PP (IN In)
+      (NP (NNP Poland)))
+    (, ,)
+    (WHADVP (WRB where))
+    (SQ (VBP do)
+      (NP (JJS most) (NNS people))
+      (VP (VB live)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN phosphorus)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN location))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN Sea))
+            (PP (IN of)
+              (NP (NN Tranquility)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ (VBZ is)
+      (NP (NN sound)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ French) (NN province))
+    (SQ (VBZ is)
+      (NP (NN cognac))
+      (VP (VBN produced)
+        (PP (IN in))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Valentine) (POS 's))
+        (NN Day)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VP (VBZ causes)
+        (NP (JJ gray) (NN hair))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN hypertension)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN bandwidth)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS longest) (NN suspension) (NN bridge))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN parasite)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN home) (NN equity)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (NNS meteorologists))
+      (VP (VB do)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN criterion))
+        (PP (IN for)
+          (S
+            (VP (VBG being)
+              (ADJP (RB legally) (JJ blind)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS tallest) (NN man))
+        (PP (IN in)
+          (NP (DT the) (NN world)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (DT the) (JJ twin) (NNS cities)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD did)
+      (NP
+        (NP (NNP Edward) (NNP Binney))
+        (CC and)
+        (NP (NNP Howard) (NNP Smith)))
+      (VP (VB invent)
+        (PP (IN in)
+          (NP (CD 1903)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN statue))
+        (PP (IN of)
+          (NP (NN liberty))))
+      (VP (VBN made)
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN pilates)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN planet))
+    (SQ (VBZ is)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (DT the) (`` ``) (JJ red) ('' '') (NN planet)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN depth))
+        (PP (IN of)
+          (NP (DT the) (NNP Nile) (NN river)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJ colorful) (JJ Korean) (JJ traditional) (NN dress))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP Mardi) (NNP Gras)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (JJ Mexican) (NNS pesos))
+    (VP (VBP are)
+      (ADJP (IN worth)
+        (WHNP (WP what)))
+      (PP (IN in)
+        (NP (NNP U.S.) (NNS dollars))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP African) (NNP American))
+        (S
+          (VP (TO to)
+            (VP (VB play)
+              (PP (IN for)
+                (NP (DT the) (NNP Brooklyn) (NNPS Dodgers))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP Prime) (NNP Minister))
+        (PP (IN of)
+          (NP (NNP Canada)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS Admirals))
+    (SQ (VBP are)
+      (NP (EX there))
+      (PP (IN in)
+        (NP (DT the) (NNP U.S.) (NNP Navy))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN instrument))
+    (SQ (VBD did)
+      (NP (NNP Glenn) (NNP Miller))
+      (VP (VB play)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBD was)
+      (NP
+        (NP (NNP Joan))
+        (PP (IN of)
+          (NP
+            (NP (NNP Arc))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP she))
+                (VP (VBD died))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT the) (NN word) (NN fortnight))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN dianetics)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN capital))
+        (PP (IN of)
+          (NP (NNP Ethiopia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHPP (IN For)
+      (WHNP (WRB how) (RB long)))
+    (SQ (VBZ is)
+      (NP (DT an) (NN elephant))
+      (ADJP (JJ pregnant)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (VBD did)
+      (NP (NNP Janice) (NNP Joplin))
+      (VP (VB die)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ primary) (NN language))
+        (PP (IN in)
+          (NP (NNP Iceland)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN difference))
+        (PP (IN between)
+          (NP
+            (NP (JJ AM) (NN radio) (NNS stations))
+            (CC and)
+            (NP (JJ FM) (NN radio) (NNS stations))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNS osteoporosis)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN woman) (NN governor))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN peyote)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNS esophagus))
+      (VP (VBN used)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN viscosity)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (NNP Oklahoma))
+      (VP (VB become)
+        (NP (DT a) (NN state))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN abbreviation))
+        (PP (IN for)
+          (NP (NNP Texas)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN mirror))
+      (VP (VBN made)
+        (PRT (RP out))
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where)
+      (PP (IN on)
+        (NP (DT the) (NN body))))
+    (SQ (VBZ is)
+      (NP (DT a) (NN mortarboard))
+      (ADJP (JJ worn)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP
+          (NP (NNP J.F.K.) (POS 's))
+          (NN wife) (POS 's))
+        (NN name)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (NNP I.V.))
+      (VP (VB stand)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP chunnel)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (NNP Hitler))
+      (VP (VBN buried)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS antacids)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ pulmonary) (NN fibrosis)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNPS Quaaludes)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN naproxen)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ strep) (NN throat)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS largest) (NN city))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NN foot))
+        (CC and)
+        (NP (NN mouth) (NN disease))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN life) (NN expectancy))
+        (PP (IN of)
+          (NP (DT a) (NN dollar) (NN bill)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB call)
+        (NP (DT a) (JJ professional) (NN map) (NN drawer))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNPS Aborigines)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN hybridization)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBZ is)
+      (NP (NN indigo)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (SBAR (IN in) (NN order)
+                (S
+                  (VP (TO to)
+                    (VP (VB rent)
+                      (NP
+                        (NP (DT a) (NN car))
+                        (PP (IN in)
+                          (NP (NNP Italy)))))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT a) (NN barometer))
+      (VP (VB measure)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT a) (NN giraffe) (POS 's))
+        (NN tongue)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (NNP USPS))
+      (VP (VB stand)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP NFL))
+      (VP (VB go)
+        (PP (IN on)
+          (NP (NN strike)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ solar) (NN wind)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN date))
+    (SQ (VBD did)
+      (NP (NNP Neil) (NNP Armstrong))
+      (VP (VB land)
+        (PP (IN on)
+          (NP (DT the) (NN moon)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Hiroshima))
+      (VP (VBN bombed)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Savannah) (NNP River)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (NN woman))
+      (VP (VBN killed)
+        (PP (IN in)
+          (NP (DT the) (NNP Vietnam) (NNP War)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN planet))
+    (SQ
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (JJS strongest) (JJ magnetic) (NN field))
+          (PP (IN of)
+            (NP (PDT all) (DT the) (NNS planets))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN governor))
+        (PP (IN of)
+          (NP (NNP Alaska)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (NNP Mussolini))
+      (VP (VB seize)
+        (NP (NN power))
+        (PP (IN in)
+          (NP (NNP Italy)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN capital))
+        (PP (IN of)
+          (NP (NNP Persia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Eiffel) (NNP Tower)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS hearts))
+    (SQ (VBZ does)
+      (NP (DT an) (NNS octopus))
+      (VP (VB have)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN pneumonia)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS deepest) (NN lake))
+        (PP (IN in)
+          (NP (DT the) (NNP US)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN fuel) (NN cell)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP U.S.) (NN president))
+        (S
+          (VP (TO to)
+            (VP (VB appear)
+              (PP (IN on)
+                (NP (NN TV))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Little) (NNP League) (NNP Museum)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP
+        (NP (DT the) (CD two) (NNS types))
+        (PP (IN of)
+          (NP (NNS twins)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJS brightest) (NN star)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN diabetes)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP President) (NNP Kennedy))
+      (VP (VBN shot)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP TMJ)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBZ is)
+      (NP (NN yak) (NN milk)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN date))
+    (SQ (VBD was)
+      (NP (NNP Dwight) (NNP D.) (NNP Eisenhower))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT the) (JJ technical) (NN term) (NN ISDN))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBZ is)
+      (NP (DT the) (NN sun))
+      (ADJP (JJ yellow)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN conversion) (NN rate))
+        (PP (IN between)
+          (NP (NNS dollars)
+            (CC and)
+            (NNS pounds)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Abraham) (NNP Lincoln))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Milky) (NNP Way)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN mold)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD was)
+      (NP (NNP Mozart))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT a) (NN group))
+        (PP (IN of)
+          (NP (NNS frogs))))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (NNP William) (NNP Penn) (POS 's))
+            (NN ship)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ melting) (NN point))
+        (PP (IN of)
+          (NP (NN gold)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN street) (NN address))
+        (PP (IN of)
+          (NP (DT the) (NNP White) (NNP House)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP semolina)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN fruit))
+    (SQ (VBZ is)
+      (NP (NN Melba) (NN sauce))
+      (VP (VBN made)
+        (PP (IN from))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP Ursa) (NNP Major)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN percentage))
+        (PP (IN of)
+          (NP
+            (NP (NN water) (NN content))
+            (PP (IN in)
+              (NP (DT the) (JJ human) (NN body)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ much))
+    (SQ (VBZ does)
+      (NP (NN water))
+      (VP (VB weigh)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (NNP President) (NNP Lyndon) (NNP Johnson) (POS 's))
+        (NN reform) (NN program))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN murder) (NN rate))
+        (PP (IN in)
+          (NP (NNP Windsor) (, ,) (NNP Ontario)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN president))
+        (S
+          (VP (TO to)
+            (VP (VB serve)
+              (NP (CD 2) (JJ non-consecutive) (NNS terms)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN population))
+        (PP (IN of)
+          (NP (NNP Australia)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD painted)
+        (NP
+          (NP (DT the) (NN ceiling))
+          (PP (IN of)
+            (NP (DT the) (NNP Sistine) (NN Chapel))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB Name)
+      (NP (DT a) (NN stimulant)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN effect))
+        (PP (IN of)
+          (NP
+            (NP (NNS volcanoes))
+            (PP (IN on)
+              (NP (DT the) (NN climate)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Andy) (NNP Griffith) (NN show))
+      (VP (VB begin)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ acid) (NN rain)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN date))
+        (PP (IN of)
+          (NP
+            (NP (NNP Mexico) (POS 's))
+            (NN independence)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN location))
+        (PP (IN of)
+          (NP (NNP Lake) (NNP Champlain)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Illinois) (NN state) (NN flower)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Maryland) (POS 's))
+        (NN state) (NN bird)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNP quicksilver)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD wrote) (`` ``)
+        (NP (DT The) (NNP Divine) (NNP Comedy))
+        ('' '')))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN speed))
+        (PP (IN of)
+          (NP (NN light)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN width))
+        (PP (IN of)
+          (NP (DT a) (NN football) (NN field)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why)
+      (PP (IN in) (NN tennis)))
+    (SQ (VBP are)
+      (NP
+        (NP (CD zero) (NNS points))
+        (VP (VBN called)
+          (NP (NN love)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN kind))
+      (PP (IN of)
+        (NP (NN dog))))
+    (SQ (VBD was)
+      (NP
+        (NP (NNP Toto))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNP Wizard))
+            (PP (IN of)
+              (NP (NNP Oz)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN thyroid)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (FW ciao))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN artery))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ carries)
+              (NP (JJ blue) (NN blood))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN heart))
+                  (PP (TO to)
+                    (NP (DT the) (NNS lungs))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB often))
+    (SQ (VBZ does)
+      (NP (NNP Old) (NNP Faithful))
+      (VP (VB erupt)
+        (PP (IN at)
+          (NP (NNP Yellowstone) (NNP National) (NNP Park)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ acetic) (NN acid)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN elevation))
+        (PP (IN of)
+          (NP
+            (NP (NNP St.) (NNP Louis))
+            (, ,)
+            (NP (NNP MO))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBZ does)
+      (NP (NN litmus) (NN paper))
+      (VP (VB turn)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VBZ comes)
+              (PP (IN into)
+                (NP (NN contact)))
+              (PP (IN with)
+                (NP (DT a) (JJ strong) (NN acid))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP
+        (NP (DT the) (NNS colors))
+        (PP (IN of)
+          (NP (DT the) (JJ German) (NN flag)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Moulin) (NNP Rouge)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ soviet) (NN seaport))
+    (SQ (VBZ is)
+      (PP (IN on)
+        (NP (DT the) (NNP Black) (NNP Sea))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ atomic) (NN weight))
+        (PP (IN of)
+          (NP (NN silver)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN currency))
+    (SQ (VBP do)
+      (NP (PRP they))
+      (VP (VB use)
+        (PP (IN in)
+          (NP (NNP Brazil)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS pathogens)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ mad) (NN cow) (NN disease)))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB Name)
+      (S
+        (NP (DT a) (NN food))
+        (ADJP (JJ high)
+          (PP (IN in)
+            (NP (NN zinc))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD did)
+      (NP (NNP North) (NNP Carolina))
+      (VP (VB enter)
+        (NP (DT the) (NN union))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBP do)
+      (NP (NN apple) (NNS snails))
+      (VP (VB live)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS ethics)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (NNP CPR))
+      (VP (VB stand)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN annuity)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD killed)
+        (NP (NNP John) (NNP F.) (NNP Kennedy))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN vice) (NN president))
+        (PP (IN of)
+          (NP (DT the) (NNP U.S.)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN birthstone))
+    (SQ (VBZ is)
+      (NP (NN turquoise)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP US) (NNP President))
+        (S
+          (VP (TO to)
+            (VP (VB ride)
+              (PP (IN in)
+                (NP (DT an) (NN automobile)))
+              (PP (TO to)
+                (NP (PRP$ his) (NN inauguration))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJS youngest) (NN president))
+        (PP (IN of)
+          (NP (DT the) (NNP United) (NNPS States)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Ulysses) (NNP S.) (NNP Grant))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ Muscular) (NN Dystrophy)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD lived)
+        (PP (IN in)
+          (NP (DT the) (NNP Neuschwanstein) (NN castle)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN propylene) (NN glycol)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN panic) (NN disorder)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (DT the) (JJ instant) (NNP Polaroid) (NN camera))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN carcinogen)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN baby) (NN lion))
+      (VP (VBN called)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN world) (POS 's))
+        (NN population)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN nepotism)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN die-casting)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN myopia)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNS sales) (NN tax) (NN rate))
+        (PP (IN in)
+          (NP (NNP New) (NNP York)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (VBG Developing) (NNS nations))
+    (VP (VBP comprise)
+      (NP
+        (NP (WP what) (NN percentage))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN world) (POS 's))
+            (NN population)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJ fourth) (JJS highest) (NN mountain))
+      (PP (IN in)
+        (NP (DT the) (NN world))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Shakespeare) (POS 's))
+        (NN nickname)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJS heaviest)
+        (ADJP (RB naturally) (VBG occurring))
+        (NN element)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Father) (POS 's))
+        (NN Day)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT the) (NN acronym) (NNP NASA))
+      (VP (VB stand)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ long))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNP Columbia) (NNP River))
+        (PP (IN in)
+          (NP (NNS miles)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN city) (POS 's))
+      (NN newspaper))
+    (SQ (VBZ is)
+      (VP (VBN called)
+        (S (`` ``)
+          (NP (DT The) (NNP Star))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN carbon) (NN dioxide)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP Mason/Dixon) (NN line)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (NNP Boston) (NN tea) (NN party)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN metabolism)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Which) (NNP U.S.A.) (NN president))
+    (SQ
+      (VP (VBD appeared)
+        (PP (IN on) (`` ``)
+          (NP (NNP Laugh-In))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS cigarettes))
+      (VP (VBN made)
+        (PP (IN of))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN capital))
+        (PP (IN of)
+          (NP (NNP Zimbabwe)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (NNP NASA))
+      (VP (VB stand)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN state) (NN flower))
+        (PP (IN of)
+          (NP (NNP Michigan)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS semiconductors)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ nuclear) (NN power)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN tsunami)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN congressman))
+        (PP (IN from)
+          (NP
+            (NP (NN state))
+            (PP (IN of)
+              (NP
+                (NP (NNP Texas))
+                (PP (IN on)
+                  (NP (DT the) (JJ armed) (NNS forces) (NN committee)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (NN president))
+        (PP (IN in)
+          (NP (CD 1913)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (JJ first) (NN kidney) (NN transplant)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP
+        (NP (NNP Canada) (POS 's))
+        (CD two) (NNS territories)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN plane))
+            (SBAR
+              (S
+                (NP (NNP Lindbergh))
+                (VP (VBD flew)
+                  (ADVP (RB solo))
+                  (PP (IN across)
+                    (NP (DT the) (NNP Atlantic))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN genocide)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN continent))
+    (SQ (VBZ is)
+      (NP (NNP Argentina))
+      (PP (IN on)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN monastery))
+    (SQ (VBD was)
+      (VP (VBN raided)
+        (PP (IN by)
+          (NP (NNPS Vikings)))
+        (PP (IN in)
+          (NP (DT the) (JJ late) (JJ eighth) (NN century)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN earthquake)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ is)
+      (NP (DT the) (JJS tallest) (NN roller) (NN coaster))
+      (VP (VBN located)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS enzymes)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD discovered)
+        (NP (NN oxygen))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NNS bangers)
+        (CC and)
+        (NN mash)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (VBN given)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNP Tiger))
+              (PP (IN at)
+                (NP (NNP Louisiana) (NNP State) (NNP University))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBP are)
+      (NP (DT the) (JJ British) (NN crown) (NNS jewels))
+      (VP (VBN kept)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN person))
+        (S
+          (VP (TO to)
+            (VP (VB reach)
+              (NP (DT the) (NNP North) (NNP Pole)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN ulcer)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN vertigo)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (NN spirometer) (NN test)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ official) (JJ first) (NN day))
+        (PP (IN of)
+          (NP (NN summer)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT the) (NN abbreviation) (NNP SOS))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS smallest) (NN bird))
+        (PP (IN in)
+          (NP (NNP Britain)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBD invented)
+        (NP (JJ Trivial) (NN Pursuit))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NNS gasses))
+    (SQ (VBP are)
+      (PP (IN in)
+        (NP (DT the) (NNP troposphere))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Which) (NN country))
+    (SQ
+      (VP (VBZ has)
+        (NP (DT the) (JJS most) (NN water) (NN pollution))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ scientific) (NN name))
+        (PP (IN for)
+          (NP (NN elephant)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ is)
+      (NP (DT the) (NN actress))
+      (VP (VBN known)
+        (PP (IN for)
+          (NP
+            (NP (PRP$ her) (NN role))
+            (PP (IN in)
+              (NP (DT the) (NN movie) (`` ``) (NN Gypsy) ('' '')))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN breed))
+      (PP (IN of)
+        (NP (NN hunting) (NN dog))))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Beverly) (NNPS Hillbillies))
+      (VP (VB own)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJS rainiest) (NN place))
+        (PP (IN on)
+          (NP (NNP Earth)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NNP African) (NNP American))
+        (S
+          (VP (TO to)
+            (VP (VB win)
+              (NP
+                (NP (DT the) (NNP Nobel) (NNP Prize))
+                (PP (IN in)
+                  (NP (NN literature)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP St.) (NNP Patrick) (POS 's))
+        (NN Day)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP
+          (NP (NNP FDR) (POS 's))
+          (NN dog) (POS 's))
+        (NN name)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NNS colors))
+    (SQ
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ mixed)
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (NP (DT the) (JJ color) (NN pink)))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ popular))
+          (NN sport))
+        (PP (IN in)
+          (NP (NNP Japan)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (JJ active) (NN ingredient))
+        (PP (IN in)
+          (NP (JJ baking) (NN soda)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (NNP Thomas) (NNP Jefferson))
+      (VP (VBN born)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ cold))
+    (SQ (MD should)
+      (NP (DT a) (NN refrigerator))
+      (VP (VB be)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ (VBD was)
+      (NP (DT the) (NN telephone))
+      (VP (VBN invented)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT the) (JJS most) (JJ common) (NN eye) (NN color)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN golf) (NN course))
+        (PP (IN in)
+          (NP (DT the) (NNP United) (NNPS States)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN schizophrenia)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN angiotensin)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD did)
+      (NP (NNP Jesse) (NNP Jackson))
+      (VP (VB organize)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP New) (NNP York) (POS 's))
+        (NN state) (NN bird)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NNP National) (NNP Park))
+        (PP (IN in)
+          (NP (NNP Utah)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (NNP Susan) (NNP B.) (NNP Anthony) (POS 's))
+        (NN birthday)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHPP (IN In)
+      (WHNP (WDT which) (NN state)))
+    (SQ (MD would)
+      (NP (PRP you))
+      (VP (VB find)
+        (NP (DT the) (NNP Catskill) (NNPS Mountains))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB call)
+        (NP
+          (NP (DT a) (NN word))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (VP (VBN spelled)
+                  (NP (DT the) (JJ same))
+                  (ADVP (RB backwards)
+                    (CC and)
+                    (RB forwards)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS pediatricians)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN chain) (NN store))
+    (SQ (VBZ is)
+      (VP (VBN headquartered)
+        (PP (IN in)
+          (NP (NNP Bentonville) (, ,) (NNP Arkansas)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (JJ solar) (NNS cells)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ compounded) (NN interest)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are)
+      (NP (NNS capers)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT an) (NN antigen)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN currency))
+    (SQ (VBZ does)
+      (NP (NNP Luxembourg))
+      (VP (VB use)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN population))
+        (PP (IN of)
+          (NP (NNP Venezuela)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN type))
+      (PP (IN of)
+        (NP (NNP polymer))))
+    (SQ (VBZ is)
+      (VP (VBN used)
+        (PP (IN for)
+          (NP (JJ bulletproof) (NNS vests)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN currency))
+    (SQ (VBZ does)
+      (NP (NNP Argentina))
+      (VP (VB use)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (DT a) (NN thermometer)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ Canadian) (NN city))
+    (SQ
+      (VP (VBZ has)
+        (NP (DT the) (JJS largest) (NN population))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN color))
+    (SQ (VBP are)
+      (NP (NNS crickets)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Which) (NN country))
+    (SQ
+      (VP (VBD gave)
+        (NP (NNP New) (NNP York))
+        (NP
+          (NP (DT the) (NNP Statue))
+          (PP (IN of)
+            (NP (NNP Liberty))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP (DT the) (JJ first) (NNP U.S.) (NN satellite))))
+      (VP (VBN sent)
+        (PP (IN into)
+          (NP (NN space)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (JJ precious) (NN stone))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT a) (NN form))
+        (PP (IN of)
+          (NP (JJ pure) (NN carbon)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN kind))
+      (PP (IN of)
+        (NP (NN gas))))
+    (SQ (VBZ is)
+      (PP (IN in)
+        (NP (DT a) (JJ fluorescent) (NN bulb))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ rheumatoid) (NN arthritis)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN river))
+    (SQ
+      (VP (VBZ runs)
+        (PP (IN through)
+          (NP (NNP Rowe) (, ,) (NNP Italy)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (JJ cerebral) (NN palsy)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN city))
+    (SQ (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN known)
+        (PP (IN as) (`` ``)
+          (NP
+            (NP (DT The) (NN Gateway))
+            (PP (TO to)
+              (NP (DT the) (NNP West))))
+          ('' ''))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far) (RB away))
+    (SQ (VBZ is)
+      (NP (DT the) (NN moon)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN source))
+        (PP (IN of)
+          (NP (JJ natural) (NN gas)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHPP (IN In)
+      (WHNP (WDT what) (NN spacecraft)))
+    (SQ (VBD did)
+      (NP (NNP U.S.) (NN astronaut) (NNP Alan) (NNP Shepard))
+      (VP (VB make)
+        (NP (PRP$ his) (JJ historic) (CD 1961) (NN flight))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN pectin)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN bio-diversity)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ 's)
+      (NP
+        (NP (DT the) (JJS easiest) (NN way))
+        (S
+          (VP (TO to)
+            (VP (VB remove)
+              (NP (NN wallpaper)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN year))
+    (SQ (VBD did)
+      (NP (DT the) (NNP Titanic))
+      (VP (VB start)
+        (PP (IN on)
+          (NP (PRP$ its) (NN journey)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP (IN of)
+        (NP (DT an) (NN apple))))
+    (SQ (VBZ is)
+      (NP (NN water)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBD was)
+      (NP
+        (NP (DT the) (JJ 22nd) (NN President))
+        (PP (IN of)
+          (NP (DT the) (NNP US)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN money))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP use)
+              (PP (IN in)
+                (NP (NNP Zambia))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS feet))
+    (PP (IN in)
+      (NP (DT a) (NN mile)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (DT the) (NN birthstone))
+        (PP (IN of)
+          (NP (NNP October)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (NN e-coli)))
+    (. ?)))
+
